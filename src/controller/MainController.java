@@ -5,5 +5,6 @@ public class MainController {
         System.out.println("Xin chào tôi là Nguyên");
         System.out.println("TungCode");
         System.out.println("Hoàng Đẹp Trai");
+        System.out.println("Hoàng Đẹp Trai2");
     }
 }
